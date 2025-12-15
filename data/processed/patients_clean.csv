@@ -1,0 +1,11 @@
+patient_id,age,gender,city
+P001,34,Male,Bengaluru
+P002,28,Female,Chennai
+P003,45,Male,Hyderabad
+P004,52,Female,Mumbai
+P005,39,Male,Pune
+P006,61,Female,Delhi
+P007,23,Female,Bengaluru
+P008,47,Male,Kolkata
+P009,55,Female,Chennai
+P010,31,Male,Hyderabad

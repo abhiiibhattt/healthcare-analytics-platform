@@ -1,0 +1,11 @@
+appointment_id,patient_id,department,appointment_date,status
+A001,P001,Cardiology,2025-01-10,Completed
+A002,P002,Neurology,2025-01-11,Cancelled
+A003,P003,Orthopedics,2025-01-12,Completed
+A004,P004,Cardiology,2025-01-13,No-show
+A005,P005,General Medicine,2025-01-14,Completed
+A006,P006,Neurology,2025-01-15,Completed
+A007,P007,General Medicine,2025-01-16,Completed
+A008,P008,Orthopedics,2025-01-17,Completed
+A009,P009,Cardiology,2025-01-18,Cancelled
+A010,P010,General Medicine,2025-01-19,Completed
