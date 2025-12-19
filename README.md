@@ -28,6 +28,7 @@ This project addresses the problem by:
 ---
 
 ## 🧱 Data Pipeline Architecture
+```text
 Raw CSV Data
 ↓
 Python ETL (Extract, Transform, Validate)
@@ -39,7 +40,7 @@ SQLite Relational Database
 SQL Analytics Queries
 ↓
 Power BI Dashboards
-
+```
 
 ---
 
@@ -63,6 +64,7 @@ The analytics layer focuses on key healthcare operational metrics, including:
 ---
 
 ## 📁 Project Structure
+```text
 healthcare-analytics-platform/
 ├── data/
 │ ├── raw/
@@ -79,7 +81,7 @@ healthcare-analytics-platform/
 │ └── screenshots/
 ├── healthcare.db
 └── README.md
-
+```
 
 ---
 
