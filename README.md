@@ -105,7 +105,7 @@ It reflects real-world data engineering and analytics practices commonly used in
 
 ## 👨‍💻 Author
 
-Abhinava Bhat
+Abhinava Bhat P V
 
 * GitHub: https://github.com/abhiiibhattt
 * Portfolio: https://abhiiibhattt.github.io/portfolio/
