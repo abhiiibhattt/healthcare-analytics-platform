@@ -100,3 +100,20 @@ This project demonstrates practical experience in:
 - Delivering business-focused dashboards
 
 It reflects real-world data engineering and analytics practices commonly used in enterprise healthcare environments.
+
+---
+
+## 👨‍💻 Author
+
+Abhinava Bhat
+
+* GitHub: https://github.com/abhiiibhattt
+* Portfolio: https://abhiiibhattt.github.io/portfolio/
+
+---
+
+## 📌 License
+
+This project is intended for educational, research, and portfolio purposes.
+
+© 2026 Abhinava Bhat P V. All rights reserved.
